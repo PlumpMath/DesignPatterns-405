@@ -4,11 +4,11 @@ Sample implementation of different factory patterns using C#. Please read to fin
 ### 1. AbstractFactory
 This console application has a sample implementation of abstract factory method. For the details of this pattern, refer [Factory Patterns in C#](https://codedesignetc.com/2017/03/02/factory-patterns/).
 This console application also demos 3 different ways of instantiating factories. For explanation and usage please refer [Factory Pattern Instantiations](https://codedesignetc.com/2017/03/03/factory-pattern-instantiations/).
-####a. User input/ hard coded 
+1. User input/ hard coded - 
 Please see the *program.cs -> main* method.
-####b. AppSettings
+2. AppSettings - 
 Please see the key *CarFactory* in *appSettings* of app.config
-####c. Custom configuration
+3. Custom configuration - 
 Please see the config section *carFactories* in app.config
 
 ### 2. SimpleFactoryandFactoryMethod
