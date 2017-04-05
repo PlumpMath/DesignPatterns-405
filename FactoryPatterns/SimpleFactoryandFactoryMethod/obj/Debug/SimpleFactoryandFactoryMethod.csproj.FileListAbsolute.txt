@@ -1,0 +1,9 @@
+D:\Projects\Yogesh\Blog\FactoryPatterns\SimpleFactoryandFactoryMethod\obj\Debug\SimpleFactoryandFactoryMethod.csprojResolveAssemblyReference.cache
+D:\Projects\Yogesh\Blog\FactoryPatterns\SimpleFactoryandFactoryMethod\bin\Debug\SimpleFactoryandFactoryMethod.exe.config
+D:\Projects\Yogesh\Blog\FactoryPatterns\SimpleFactoryandFactoryMethod\bin\Debug\SimpleFactoryandFactoryMethod.exe
+D:\Projects\Yogesh\Blog\FactoryPatterns\SimpleFactoryandFactoryMethod\bin\Debug\SimpleFactoryandFactoryMethod.pdb
+D:\Projects\Yogesh\Blog\FactoryPatterns\SimpleFactoryandFactoryMethod\obj\Debug\SimpleFactoryandFactoryMethod.exe
+D:\Projects\Yogesh\Blog\FactoryPatterns\SimpleFactoryandFactoryMethod\obj\Debug\SimpleFactoryandFactoryMethod.pdb
+D:\Projects\Yogesh\Blog\DesignPatterns\SimpleFactoryandFactoryMethod\bin\Debug\SimpleFactoryandFactoryMethod.exe.config
+D:\Projects\Yogesh\Blog\DesignPatterns\SimpleFactoryandFactoryMethod\obj\Debug\SimpleFactoryandFactoryMethod.exe
+D:\Projects\Yogesh\Blog\DesignPatterns\SimpleFactoryandFactoryMethod\obj\Debug\SimpleFactoryandFactoryMethod.pdb
