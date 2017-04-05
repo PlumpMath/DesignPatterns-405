@@ -1,14 +1,14 @@
-# DesignPatterns
-Sample implementation of different design patterns using C#. Please read to find the execution details of various projects.
+# Factory Patterns
+Sample implementation of different factory patterns using C#. Please read to find the execution details of various projects.
 
 ### 1. AbstractFactory
 This console application has a sample implementation of abstract factory method. For the details of this pattern, refer [Factory Patterns in C#](https://codedesignetc.com/2017/03/02/factory-patterns/).
 This console application also demos 3 different ways of instantiating factories. For explanation and usage please refer [Factory Pattern Instantiations](https://codedesignetc.com/2017/03/03/factory-pattern-instantiations/).
-#####a. User input/ hard coded 
+####a. User input/ hard coded 
 Please see the *program.cs -> main* method.
-#####b. AppSettings
+####b. AppSettings
 Please see the key *CarFactory* in *appSettings* of app.config
-#####c. Custom configuration
+####c. Custom configuration
 Please see the config section *carFactories* in app.config
 
 ### 2. SimpleFactoryandFactoryMethod
